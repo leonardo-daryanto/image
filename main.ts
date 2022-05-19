@@ -1,4 +1,8 @@
 namespace images {
+    /**
+     *  display random images
+     */
+    //% block
     export function showRandomImages(): void {
         let image = randint(1, 3)
         
